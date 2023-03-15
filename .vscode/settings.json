@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/eaa9f93a-17e7-4b4d-bcdf-99fe89dde940/resourceGroups/adi_final/providers/Microsoft.Web/sites/djangoo",
+    "appService.deploySubpath": "."
+}
